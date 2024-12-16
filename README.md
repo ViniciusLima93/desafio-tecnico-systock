@@ -1,17 +1,29 @@
-###
-desafio-tecnico-systock
 
-###
-Iniciando backend e banco de dados
+---
 
-#Acesse a pasta
-laravel-10-rest-api
+# **Desafio Técnico Systock**
 
-e siga o README do projeto db e backend
+## **Iniciando o Backend e Banco de Dados**
 
-###
-Iniciando o front acesse a pasta
+1. **Acesse a pasta do backend:**
 
-systock-front
+   ```bash
+   cd laravel-10-rest-api
+   ```
 
-e siga o README do projeto frontend
+2. Siga as instruções descritas no **README do projeto DB e Backend**.
+
+---
+
+## **Iniciando o Frontend**
+
+1. **Acesse a pasta do frontend:**
+
+   ```bash
+   cd front-systock-vue-vuetify/systock-front
+   ```
+
+2. Siga as instruções descritas no **README do projeto Frontend**.
+
+--- 
+
