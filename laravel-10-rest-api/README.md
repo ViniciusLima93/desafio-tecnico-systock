@@ -11,6 +11,7 @@ cp.env.example.env
 
 Atualiza as variaveis de ambiente 
 
+```dosini
 APP_NAME=Laravel
 APP_ENV=local
 APP_KEY=
@@ -28,6 +29,7 @@ DB_PORT=5432
 DB_DATABASE=postgres
 DB_USERNAME=postgres
 DB_PASSWORD=postgres
+```
 
 
 Suba os containers do projeto
