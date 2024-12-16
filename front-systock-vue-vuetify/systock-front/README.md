@@ -20,6 +20,7 @@ npm run dev
 ```
 
 ### Acesse
-localhost:5173
+
+[http://localhost:5173](http://localhost:8989)
 
 
